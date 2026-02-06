@@ -8,7 +8,13 @@ I'm a Backend Developer with a strong focus on **Python**, automation, backend d
 
 ## Tech stack I use and learn
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,js,html,css,sqlite,postgresql,sqlalchemy,fastapi,pydantic,docker,nginx,aiogram,discordbots,git,githubdesktop,visualstudio&perline=8)
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=python,js,html,css,sqlite,postgresql,sqlalchemy,fastapi,pydantic,docker,nginx,aiogram,discordbots,git,githubdesktop,visualstudio&perline=8"
+    />
+  </a>
+</p>
 
 ## I Do
 
